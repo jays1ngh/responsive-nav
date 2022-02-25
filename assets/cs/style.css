@@ -111,7 +111,7 @@ body {
     
     justify-content: space-between;
     align-items: center;
-    min-height: 8vh;
+    min-height: 75px;
     background-color: hsl( var(--clr-primary) );
 }
 
